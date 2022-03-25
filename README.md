@@ -24,5 +24,6 @@
 ## 使用
 1. npm install下载依赖
 2. npm run dev启动前台（需要先启动后台delivery_node）
+3. localhost:8080
 
 ## 注：
